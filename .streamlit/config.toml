@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#2E68ED"        # 商业主蓝
+backgroundColor = "#F7F9FC"     # 极浅灰背景，与 CSS 注入一致
+secondaryBackgroundColor = "#FFFFFF" # 侧边栏及所有卡片的纯白面层色
+textColor = "#111827"           # 几乎纯正的深灰黑正文颜色 (Tailwind Gray-900)
+font = "sans serif"
+
+[server]
+headless = true
